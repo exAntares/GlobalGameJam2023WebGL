@@ -1,6 +1,16 @@
+
 # GlobalGameJam2023
 
 This is a game created for the Global Game Jam 2023.
+
+# Members
+
+- [Luis Rojas (Programmer)](https://globalgamejam.org/users/antares "https://globalgamejam.org/users/antares")
+- [Sergio Lumley (Programmer)](https://globalgamejam.org/users/sergio-lumley "https://globalgamejam.org/users/sergio-lumley")
+- [Oriana Laplana (GD/UX)](https://globalgamejam.org/users/oriana "https://globalgamejam.org/users/oriana")
+- [Marta Alonso (Art)](https://www.instagram.com/_crimsss_/ "https://www.instagram.com/_crimsss_/")
+- [Ciro Rodríguez LLorens (Audio)](https://www.instagram.com/ciro_rodriguez_ll "https://www.instagram.com/ciro_rodriguez_ll")
+
 
 # Concept and initial intentions
 
@@ -17,9 +27,9 @@ When an object is placed in a slot, a tormenting spot may spawn (either static o
  - When you're defeated, the character may faint and spawn again from the initial point, but progress is maintained.
 
 # Controls
- - Left, right, up or down. (WASD)
- - Button to interact (E)
- - Button to read (R)
+ - Left, right, up or down. ( WASD )
+ - Button to interact ( E )
+ - Button to read ( R )
 
 # Game and how to play
 [Try it out here](https://exantares.github.io/GlobalGameJam2023WebGL/)
