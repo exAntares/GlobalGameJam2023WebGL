@@ -9,6 +9,8 @@ Enjoy this short story heavily inspired by PT (Playable Teaser).
 
  - [Play it right here!](https://exantares.github.io/GlobalGameJam2023WebGL/)
 
+ - [Version post Jam here](https://exantares.github.io/GlobalGameJam2023WebGL/UpdateOri/)
+
 # Plot
 Our protagonist has come back to a place where he thought he'd never be able to return. Some things have changed, but a lot is still troubling him. Help him search for clues and uncover his past. 
 
